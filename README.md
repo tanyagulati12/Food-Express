@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">Food Express Delivery</h1>
 
 Food Express is a MERN (MongoDB, Express.js, React, Node.js) stack project that includes a sign-in/sign-up page with authentication, a frontend with dark and light themes, a backend with MongoDB database integration, and a payment system using Stripe. It also features an admin panel with dark and light themes.
@@ -81,3 +82,6 @@ This is my first project using the MERN stack, and while it's not fully function
 
 Let's connect on [LinkedIn](https://linkedin.com/in/zahidrahimoon) and [GitHub](https://github.com/zahidrahimoon) to follow my journey. 🚀
 
+=======
+# Food-Express
+>>>>>>> 8c1c43d58c8df1ddd16496875278e08e38d99788
